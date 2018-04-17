@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<pokedex_entry>
+
+	<description>
+		<page_1>
+			This pokemon loves to jump around on snow drifts all day.
+			Its tail can whip up small gusts of snow.
+		</page_1>
+	</description>
+
+	<basic_info>
+
+	<number>052</number>
+
+	<name>Leofrost</name>
+
+	<type>Snow Leopard Pokemon</type>
+
+	<color>Blue</color>
+
+	<height>2'02"</height>
+
+	<weight>35.6 Ibs.</weight>
+
+	<elem_type>Ice</elem_type>
+
+	<abilities>Intimidate</abilities>
+
+	<catch_rate>255</catch_rate>
+
+	</basic_info>
+
+	<stats>
+
+		<base>
+			<hp>45</hp>
+
+			<atk>55</atk>
+
+			<def>50</def>
+
+			<sp_atk>70</sp_atk>
+
+			<sp_def>55</sp_def>
+
+			<spd>35</spd>
+		</base>
+
+	</stats>
+
+	<raising>
+		<friend>70</friend>
+
+		<evs>1 Sp. Attack</evs>
+
+		<lvl_rate>Medium-Fast</lvl_rate>
+
+		<base_exp>69</base_exp>
+
+		<evolution> Into Glaceleo - Level 28</evolution>
+	</raising>
+
+	<breeding>
+		<gender>50% Male, 50%Female</gender>
+
+		<egg_group>Field</egg_group>
+
+		<egg_hatch>5140 Steps</egg_hatch>
+
+		<egg_moves>*Egg Moves and Their Parent Pokemon*</egg_moves>
+	</breeding>
+
+	<moves>
+		<leveling>
+			<level>1 - Leer</level>
+			<level>1 - Tackle</level>
+			<level>6 - Odor Slueth</level>
+			<level>10 - Powder Snow</level>
+			<level>15 - Bite</level>
+			<level>19 - Icy Wind</level>
+			<level>25 - Headbutt</level>
+			<level>28 - Crunch</level>
+			<level>33 - Hail</level>
+			<level>39 - Ice Beam</level>
+			<level>43 - Glare</level>
+			<level>49 - Protect</level>
+			<level>55 - Blizzard</level>
+		</leveling>
+
+		<tm>
+			<item>TM03 - Water Pulse</item>
+			<item>TM05 - Roar</item>
+			<item>TM07 - Hail</item>
+			<item>TM10 - Hidden Power</item>
+			<item>TM13 - Ice Beam</item>
+			<item>TM14 - Blizzard</item>
+			<item>TM17 - Protect</item>
+			<item>TM21 - Frustration</item>
+			<item>TM23 - Iron Tail</item>
+			<item>TM27 - Return</item>
+			<item>TM30 - Shadow Ball</item>
+			<item>TM32 - Double Team</item>
+			<item>TM42 - Facade</item>
+			<item>TM43 - Secret Power</item>
+			<item>TM44 - Rest</item>
+			<item>TM45 - Attract</item>
+			<item>HM06 - Rock Smash</item>
+		</tm>
+
+	</moves>
+
+
+
+</pokedex_entry>

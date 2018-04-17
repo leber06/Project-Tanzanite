@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<pokedex_entry>
+
+	<description>
+		<page_1>Aracoal are feared by many aracnophobiacs. Its fangs can puncture steel.</page_1>
+	</description>
+
+	<basic_info>
+
+	<number>005</number>
+
+	<name>Aracoal</name>
+
+	<type>Flare Spider Pokemon</type>
+
+	<color>Orange</color>
+
+	<height>2'5"</height>
+
+	<weight>42.1 Ibs.</weight>
+
+	<elem_type>Fire, Poison</elem_type>
+
+	<abilities>Blaze</abilities>
+
+	<catch_rate>45</catch_rate>
+
+	</basic_info>
+
+	<stats>
+
+		<base>
+			<hp>60</hp>
+
+			<atk>80</atk>
+
+			<def>60</def>
+
+			<sp_atk>90</sp_atk>
+
+			<sp_def>60</sp_def>
+
+			<spd>55</spd>
+		</base>
+
+	</stats>
+
+	<raising>
+		<friend>70</friend>
+
+		<evs>2 Sp. Attack</evs>
+
+		<lvl_rate>Medium-Slow</lvl_rate>
+
+		<base_exp>142</base_exp>
+
+		<evolution> Buzzflame - Level 36</evolution>
+	</raising>
+
+	<breeding>
+		<gender>87.5% Male, 12.5%Female</gender>
+
+		<egg_group>Bug and Field</egg_group>
+
+		<egg_hatch>5140 Steps</egg_hatch>
+
+		<egg_moves>*Egg Moves and their pokemon</egg_moves>
+	</breeding>
+
+	<moves>
+		<leveling>
+			<level>1 - Poison Sting</level>
+			<level>1 - Growl</level>
+			<level>7 - String Shot</level>
+			<level>10 - Ember</level>
+			<level>16 - Acid</level>
+			<level>19 - Poison Gas</level>
+			<level>22 - Poison Fang</level>
+			<level>25 - Fire Spin</level>
+			<level>28 - Quick Attack</level>
+			<level>34 - Sludge</level>
+			<level>37 - Toxic</level>
+			<level>43 - Sludgebomb</level>
+			<level>47 - Flamethrower</level>
+			<level>55 - Fire Blast</level>
+		</leveling>
+
+		<tm>
+			<item>TM02 - Dragon Claw</item>
+			<item>TM06 - Toxic</item>
+			<item>TM10 - Hidden Power</item>
+			<item>TM11 - Sunny Day</item>
+			<item>TM17 - Protect</item>
+			<item>TM20 - Safeguard</item>
+			<item>TM21 - Frustration</item>
+			<item>TM27 - Return</item>
+			<item>TM28 - Dig</item>
+			<item>TM32 - Double Team</item>
+			<item>TM35 - Flamethrower</item>
+			<item>TM36 - Sludge Bomb</item>
+			<item>TM38 - Fire Blast</item>
+			<item>TM42 - Facade</item>
+			<item>TM43 - Secret Power</item>
+			<item>TM44 - Rest</item>
+			<item>TM45 - Attract</item>
+			<item>TM50 - Overheat</item>
+			<item>Hm01 - Cut</item>
+		</tm>
+
+	</moves>
+
+
+
+</pokedex_entry>

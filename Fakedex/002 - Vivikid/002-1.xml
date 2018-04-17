@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<pokedex_entry>
+
+	<description>
+		<page_1>Vivikid causes mischief wherever it is found. This pokemon thrives on tormenting strangers.</page_1>
+	</description>
+
+	<basic_info>
+
+	<number>002</number>
+
+	<name>Vivikid</name>
+
+	<type>Shadow Plant Pokemon</type>
+
+	<color>Green</color>
+
+	<height>3'09"</height>
+
+	<weight>50.7 Ibs.</weight>
+
+	<elem_type>Grass, Dark</elem_type>
+
+	<abilities>Overgrow</abilities>
+
+	<catch_rate>45</catch_rate>
+
+	</basic_info>
+
+	<stats>
+
+		<base>
+			<hp>50</hp>
+
+			<atk>95</atk>
+
+			<def>50</def>
+
+			<sp_atk>75</sp_atk>
+
+			<sp_def>65</sp_def>
+
+			<spd>70</spd>
+		</base>
+
+
+	</stats>
+
+	<raising>
+		<friend>70</friend>
+
+		<evs>2 Attack</evs>
+
+		<lvl_rate>Medium-Slow</lvl_rate>
+
+		<base_exp>142</base_exp>
+
+		<evolution> Dievine - Level 34</evolution>
+	</raising>
+
+	<breeding>
+		<gender>87.5% Male, 12.5%Female</gender>
+
+		<egg_group>Grass and Monster</egg_group>
+
+		<egg_hatch>5140 Steps</egg_hatch>
+
+		<egg_moves>*Egg Moves and their pokemon</egg_moves>
+	</breeding>
+
+	<moves>
+		<leveling>
+			<level>1 - Tackle</level>
+			<level>1 - Growl</level>
+			<level>7 - Leech Seed</level>
+			<level>10 - Vine Whip</level>
+			<level>12 - Quick Attack</level>
+			<level>15 - Snatch</level>
+			<level>18 - Leaf Blade</level>
+			<level>21 - Mega Drain</level>
+			<level>26 - Knock Off</level>
+			<level>32 - Growth</level>
+			<level>39 - Giga Drain</level>
+			<level>42 - Slash</level>
+			<level>53 - Sythesis</level>
+			<level>57 - Solarbeam</level>
+		</leveling>
+
+		<tm>
+			<item>TM06 - Toxic</item>
+			<item>TM09 - Bullet Seed</item>
+			<item>TM10 - Hidden Power</item>
+			<item>TM11 - Sunny Day</item>
+			<item>TM12 - Taunt</item>
+			<item>TM16 - Light Screen</item>
+			<item>TM17 - Protect</item>
+			<item>TM19 - Giga Drain</item>
+			<item>TM20 - Safeguard</item>
+			<item>TM21 - Frustration</item>
+			<item>TM22 - Solarbeam</item>
+			<item>TM27 - Return</item>
+			<item>TM32 - Double Team</item>
+			<item>TM36 - Sludge Bomb</item>
+			<item>TM41 - Torment</item>
+			<item>TM42 - Facade</item>
+			<item>TM43 - Secret Power</item>
+			<item>TM44 - Rest</item>
+			<item>TM45 - Attract</item>
+			<item>TM49 - Snatch</item>
+			<item>HM01 - Cut</item>
+		</tm>
+
+	</moves>
+
+
+
+</pokedex_entry>

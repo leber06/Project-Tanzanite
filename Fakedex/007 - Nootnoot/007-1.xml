@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<pokedex_entry>
+
+	<description>
+		<page_1>Nootnoot is the spirit of a prehistoric water pokemon. Little is known about its origin.</page_1>
+	</description>
+
+	<basic_info>
+
+	<number>007</number>
+
+	<name>Nootnoot</name>
+
+	<type>Aqua Spirit Pokemon</type>
+
+	<color>Blue</color>
+
+	<height>1'00"</height>
+
+	<weight>0.5 Ibs.</weight>
+
+	<elem_type>Water, Ghost</elem_type>
+
+	<abilities>Torrent</abilities>
+
+	<catch_rate>45</catch_rate>
+
+	</basic_info>
+
+	<stats>
+
+		<base>
+			<hp>50</hp>
+
+			<atk>60</atk>
+
+			<def>40</def>
+
+			<sp_atk>70</sp_atk>
+
+			<sp_def>40</sp_def>
+
+			<spd>50</spd>
+		</base>
+
+	</stats>
+
+	<raising>
+		<friend>70</friend>
+
+		<evs>1 Sp. Attack</evs>
+
+		<lvl_rate>Medium-Slow</lvl_rate>
+
+		<base_exp>62</base_exp>
+
+		<evolution> Nooter - Level 16</evolution>
+	</raising>
+
+	<breeding>
+		<gender>87.5% Male, 12.5%Female</gender>
+
+		<egg_group>Water 1 and Amorphous</egg_group>
+
+		<egg_hatch>5140 Steps</egg_hatch>
+
+		<egg_moves>*Egg Moves and their pokemon</egg_moves>
+	</breeding>
+
+	<moves>
+		<leveling>
+			<level>1 - Astonish</level>
+			<level>1 - Leer</level>
+			<level>6 - Confuse Ray</level>
+			<level>10 - Bubble</level>
+			<level>15 - Spite</level>
+			<level>19 - Bubblebeam</level>
+			<level>24 - Hypnosis</level>
+			<level>28 - Night Shade</level>
+			<level>33 - Whirlpool</level>
+			<level>37 - Curse</level>
+			<level>42 - Shadow Ball</level>
+			<level>46 - Hydro Pump</level>
+		</leveling>
+
+		<tm>
+			<item>TM03 - Water Pulse</item>
+			<item>TM06 - Toxic</item>
+			<item>TM07 - Hail</item>
+			<item>TM10 - Hidden Power</item>
+			<item>TM12 - Taunt</item>
+			<item>TM13 - Ice Beam</item>
+			<item>TM14 - Blizzard</item>
+			<item>TM17 - Protect</item>
+			<item>TM18 - Rain Dance</item>
+			<item>TM21 - Frustration</item>
+			<item>TM27 - Return</item>
+			<item>TM29 - Psychic</item>
+			<item>TM30 - Shadow Ball</item>
+			<item>TM32 - Double Team</item>
+			<item>TM36 - Sludge Bomb</item>
+			<item>TM41 - Torment</item>
+			<item>TM42 - Facade</item>
+			<item>TM43 - Secret Power</item>
+			<item>TM44 - Rest</item>
+			<item>TM45 - Attract</item>
+			<item>TM46 - Thief</item>
+			<item>TM48 - Skill Swap</item>
+			<item>TM49 - Snatch</item>
+			<item>HM03 - Surf</item>
+			<item>HM07 - Waterfall</item>
+			<item>HM08 - Dive</item>
+
+		</tm>
+
+	</moves>
+
+
+
+</pokedex_entry>

@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<pokedex_entry>
+
+	<description>
+		<page_1>Vievi prefers dark and damp locations to thrive in. It whips its vines at enemies' eyes as a defense mechanism.</page_1>
+	</description>
+
+	<basic_info>
+
+	<number>001</number>
+
+	<name>Vievi</name>
+
+	<type>Shadow Seed Pokemon</type>
+
+	<color>Green</color>
+
+	<height>1'03"</height>
+
+	<weight>4.5 Ibs.</weight>
+
+	<elem_type>Grass</elem_type>
+
+	<abilities>Overgrow</abilities>
+
+	<catch_rate>45</catch_rate>
+
+	</basic_info>
+
+	<stats>
+
+		<base>
+			<hp>40</hp>
+
+			<atk>70</atk>
+
+			<def>40</def>
+
+			<sp_atk>55</sp_atk>
+
+			<sp_def>55</sp_def>
+
+			<spd>50</spd>
+		</base>
+
+
+	</stats>
+
+	<raising>
+		<friend>70</friend>
+
+		<evs>1 Attack</evs>
+
+		<lvl_rate>Medium-Slow</lvl_rate>
+
+		<base_exp>65</base_exp>
+
+		<evolution> Vivikid - Level 16</evolution>
+	</raising>
+
+	<breeding>
+		<gender>87.5% Male, 12.5%Female</gender>
+
+		<egg_group>Grass and Monster</egg_group>
+
+		<egg_hatch>5140 Steps</egg_hatch>
+
+		<egg_moves>*Egg Moves and their pokemon</egg_moves>
+	</breeding>
+
+	<moves>
+		<leveling>
+			<level>1 - Tackle</level>
+			<level>1 - Growl</level>
+			<level>7 - Leech Seed</level>
+			<level>10 - Vine Whip</level>
+			<level>15 - Snatch</level>
+			<level>21 - Mega Drain</level>
+			<level>26 - Knock Off</level>
+			<level>32 - Growth</level>
+			<level>39 - Mega Drain</level>
+			<level>42 - Sythesis</level>
+			<level>46 - Solarbeam</level>
+		</leveling>
+
+		<tm>
+			<item>TM06 - Toxic</item>
+			<item>TM09 - Bullet Seed</item>
+			<item>TM10 - Hidden Power</item>
+			<item>TM11 - Sunny Day</item>
+			<item>TM12 - Taunt</item>
+			<item>TM16 - Light Screen</item>
+			<item>TM17 - Protect</item>
+			<item>TM19 - Giga Drain</item>
+			<item>TM20 - Safeguard</item>
+			<item>TM21 - Frustration</item>
+			<item>TM22 - Solarbeam</item>
+			<item>TM27 - Return</item>
+			<item>TM32 - Double Team</item>
+			<item>TM36 - Sludge Bomb</item>
+			<item>TM41 - Torment</item>
+			<item>TM42 - Facade</item>
+			<item>TM43 - Secret Power</item>
+			<item>TM44 - Rest</item>
+			<item>TM45 - Attract</item>
+			<item>TM49 - Snatch</item>
+			<item>HM01 - Cut</item>
+		</tm>
+
+	</moves>
+
+
+
+</pokedex_entry>

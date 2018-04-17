@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<pokedex_entry>
+
+	<description>
+		<page_1>
+			No one is sure about this Pokemon, it appears to be a super swole form of Wobbuffet.
+		</page_1>
+	</description>
+
+	<basic_info>
+
+	<number>151</number>
+
+	<name>Wobbuffit</name>
+
+	<type>Derpy Swole Pokemon</type>
+
+	<color>Blue</color>
+
+	<height>8'06"</height>
+
+	<weight>450.7 Ibs.</weight>
+
+	<elem_type>Dragon, Fighting</elem_type>
+
+	<abilities>Huge Power</abilities>
+
+	<catch_rate>3</catch_rate>
+
+	</basic_info>
+
+	<stats>
+
+		<base>
+			<hp>110</hp>
+
+			<atk>160</atk>
+
+			<def>100</def>
+
+			<sp_atk>120</sp_atk>
+
+			<sp_def>100</sp_def>
+
+			<spd>130</spd>
+		</base>
+
+	</stats>
+
+	<raising>
+		<friend>0</friend>
+
+		<evs>3 Attack</evs>
+
+		<lvl_rate>Slow</lvl_rate>
+
+		<base_exp>220</base_exp>
+
+		<evolution>No Evolution</evolution>
+	</raising>
+
+	<breeding>
+		<gender>Genderless</gender>
+
+		<egg_group>Undiscovered</egg_group>
+
+		<egg_hatch>Can't Breed</egg_hatch>
+
+		<egg_moves>N/A</egg_moves>
+	</breeding>
+
+	<moves>
+		<leveling>
+			<level>1 - Dragon Rage</level>
+			<level>1 - Leer</level>
+			<level>11 - Karate Chop</level>
+			<level>22 - Dragonbreath</level>
+			<level>33 - Dragon Dance</level>
+			<level>44 - Submission</level>
+			<level>55 - Bulk Up</level>
+			<level>66 - Dragon Claw</level>
+			<level>77 - Seismic Toss</level>
+			<level>88 - Twister</level>
+			<level>99 - Focus Punch</level>
+			<level>100 - Cosmic Power</level>
+
+		</leveling>
+
+		<tm>
+			<item>All</item>
+		</tm>
+
+	</moves>
+
+
+
+</pokedex_entry>

@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<pokedex_entry>
+
+	<description>
+		<page_1>Not many have lived to tell the tale of staring a wild Deathnoot in the eyes. Once tamed, though, they make loyal and fearsome fighters.</page_1>
+	</description>
+
+	<basic_info>
+
+	<number>009</number>
+
+	<name>Deathnoot</name>
+
+	<type>Aqua Spirit Pokemon</type>
+
+	<color>Blue</color>
+
+	<height>6'00"</height>
+
+	<weight>66.6 Ibs.</weight>
+
+	<elem_type>Water, Ghost</elem_type>
+
+	<abilities>Torrent</abilities>
+
+	<catch_rate>45</catch_rate>
+
+	</basic_info>
+
+	<stats>
+
+		<base>
+			<hp>100</hp>
+
+			<atk>95</atk>
+
+			<def>75</def>
+
+			<sp_atk>110</sp_atk>
+
+			<sp_def>75</sp_def>
+
+			<spd>80</spd>
+		</base>
+
+	</stats>
+
+	<raising>
+		<friend>70</friend>
+
+		<evs>3 Sp. Attack</evs>
+
+		<lvl_rate>Medium-Slow</lvl_rate>
+
+		<base_exp>241</base_exp>
+
+		<evolution>Fully Evolved</evolution>
+	</raising>
+
+	<breeding>
+		<gender>87.5% Male, 12.5%Female</gender>
+
+		<egg_group>Water 1 and Amorphous</egg_group>
+
+		<egg_hatch>5140 Steps</egg_hatch>
+
+		<egg_moves>*Egg Moves and their pokemon</egg_moves>
+	</breeding>
+
+	<moves>
+		<leveling>
+			<level>1 - Astonish</level>
+			<level>1 - Leer</level>
+			<level>1 - Confuse Ray</level>
+			<level>6 - Confuse Ray</level>
+			<level>10 - Bubble</level>
+			<level>15 - Spite</level>
+			<level>19 - Bubblebeam</level>
+			<level>24 - Hypnosis</level>
+			<level>28 - Night Shade</level>
+			<level>33 - Whirlpool</level>
+			<level>37 - Curse</level>
+			<level>42 - Shadow Ball</level>
+			<level>46 - Foresight</level>
+			<level>55 - Hydro Pump</level>
+			<level>63 - Hydro Cannon</level>
+		</leveling>
+
+		<tm>
+			<item>TM03 - Water Pulse</item>
+			<item>TM06 - Toxic</item>
+			<item>TM07 - Hail</item>
+			<item>TM10 - Hidden Power</item>
+			<item>TM12 - Taunt</item>
+			<item>TM13 - Ice Beam</item>
+			<item>TM14 - Blizzard</item>
+			<item>TM17 - Protect</item>
+			<item>TM18 - Rain Dance</item>
+			<item>TM21 - Frustration</item>
+			<item>TM27 - Return</item>
+			<item>TM29 - Psychic</item>
+			<item>TM30 - Shadow Ball</item>
+			<item>TM32 - Double Team</item>
+			<item>TM36 - Sludge Bomb</item>
+			<item>TM41 - Torment</item>
+			<item>TM42 - Facade</item>
+			<item>TM43 - Secret Power</item>
+			<item>TM44 - Rest</item>
+			<item>TM45 - Attract</item>
+			<item>TM46 - Thief</item>
+			<item>TM48 - Skill Swap</item>
+			<item>TM49 - Snatch</item>
+			<item>HM03 - Surf</item>
+			<item>HM07 - Waterfall</item>
+			<item>HM08 - Dive</item>
+
+		</tm>
+
+	</moves>
+
+
+
+</pokedex_entry>

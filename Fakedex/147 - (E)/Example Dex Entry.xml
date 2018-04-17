@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<pokedex_entry>
+
+	<description>
+		<page_1>Write the entry information for this pokemon.</page_1>
+	</description>
+
+	<basic_info>
+
+	<number>###</number>
+
+	<name>???</name>
+
+	<type>??? Pokemon</type>
+
+	<color>?????</color>
+
+	<height>#'##"</height>
+
+	<weight>### Ibs.</weight>
+
+	<elem_type>???, ???</elem_type>
+
+	<abilities>???, ???</abilities>
+
+	<catch_rate>###</catch_rate>
+
+	</basic_info>
+
+	<stats>
+
+		<base>
+			<hp>???</hp>
+
+			<atk>???</atk>
+
+			<def>???</def>
+
+			<sp_atk>???</sp_atk>
+
+			<sp_def>???</sp_def>
+
+			<spd>???</spd>
+		</base>
+
+		<max>
+			<hp>???</hp>
+
+			<atk>???</atk>
+
+			<def>???</def>
+
+			<sp_atk>???</sp_atk>
+
+			<sp_def>???</sp_def>
+
+			<spd>???</spd>
+
+		</max>
+
+		<min>
+			<hp>???</hp>
+
+			<atk>???</atk>
+
+			<def>???</def>
+
+			<sp_atk>???</sp_atk>
+
+			<sp_def>???</sp_def>
+
+			<spd>???</spd>
+
+		</min>
+
+	</stats>
+
+	<raising>
+		<friend>##</friend>
+
+		<evs># Stat, # Stat</evs>
+
+		<lvl_rate>???</lvl_rate>
+
+		<base_exp>???</base_exp>
+
+		<evolution> ??? - Level ??</evolution>
+	</raising>
+
+	<breeding>
+		<gender>##% Male, ##%Female</gender>
+
+		<egg_group>??? and ???</egg_group>
+
+		<egg_hatch>##### Steps</egg_hatch>
+
+		<egg_moves>*Egg Moves and their pokemon</egg_moves>
+	</breeding>
+
+	<moves>
+		<leveling>
+			<level>0 - ???</level>
+		</leveling>
+
+		<tm>
+			<item>TM?? - ???</item>
+		</tm>
+
+	</moves>
+
+
+
+</pokedex_entry>

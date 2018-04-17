@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<pokedex_entry>
+
+	<description>
+		<page_1>
+			Glaceleo is very wary and rarely seen.
+			It whips up snowstorms as a get away when threatened.
+		</page_1>
+	</description>
+
+	<basic_info>
+
+	<number>053</number>
+
+	<name>Glaceleo</name>
+
+	<type>Snow Leopard Pokemon</type>
+
+	<color>Blue</color>
+
+	<height>4'03"</height>
+
+	<weight>221.7 Ibs.</weight>
+
+	<elem_type>Ice, Dark</elem_type>
+
+	<abilities>Intimidate</abilities>
+
+	<catch_rate>90</catch_rate>
+
+	</basic_info>
+
+	<stats>
+
+		<base>
+			<hp>65</hp>
+
+			<atk>65</atk>
+
+			<def>70</def>
+
+			<sp_atk>115</sp_atk>
+
+			<sp_def>75</sp_def>
+
+			<spd>50</spd>
+		</base>
+
+	</stats>
+
+	<raising>
+		<friend>70</friend>
+
+		<evs>2 Sp. Attack</evs>
+
+		<lvl_rate>Medium-Fast</lvl_rate>
+
+		<base_exp>148</base_exp>
+
+		<evolution>Fully Evolved</evolution>
+	</raising>
+
+	<breeding>
+		<gender>50% Male, 50%Female</gender>
+
+		<egg_group>Field</egg_group>
+
+		<egg_hatch>5140 Steps</egg_hatch>
+
+		<egg_moves>*Egg Moves and Their Parent Pokemon*</egg_moves>
+	</breeding>
+
+	<moves>
+		<leveling>
+			<level>1 - Leer</level>
+			<level>1 - Tackle</level>
+			<level>1 - Powder Snow</level>
+			<level>6 - Odor Slueth</level>
+			<level>10 - Powder Snow</level>
+			<level>15 - Bite</level>
+			<level>19 - Icy Wind</level>
+			<level>25 - Headbutt</level>
+			<level>28 - Crunch</level>
+			<level>33 - Hail</level>
+			<level>39 - Ice Beam</level>
+			<level>43 - Glare</level>
+			<level>49 - Protect</level>
+			<level>55 - Extremespeed</level>
+			<level>63 - Blizzard</level>
+		</leveling>
+
+		<tm>
+			<item>TM03 - Water Pulse</item>
+			<item>TM05 - Roar</item>
+			<item>TM07 - Hail</item>
+			<item>TM10 - Hidden Power</item>
+			<item>TM13 - Ice Beam</item>
+			<item>TM14 - Blizzard</item>
+			<item>TM15 - Hyper Beam</item>
+			<item>TM17 - Protect</item>
+			<item>TM21 - Frustration</item>
+			<item>TM23 - Iron Tail</item>
+			<item>TM27 - Return</item>
+			<item>TM30 - Shadow Ball</item>
+			<item>TM32 - Double Team</item>
+			<item>TM42 - Facade</item>
+			<item>TM43 - Secret Power</item>
+			<item>TM44 - Rest</item>
+			<item>TM45 - Attract</item>
+			<item>HM01 - Cut</item>
+			<item>HM04 - Strength</item>
+			<item>HM06 - Rock Smash</item>
+		</tm>
+
+	</moves>
+
+
+
+</pokedex_entry>
